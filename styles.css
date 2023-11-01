@@ -1,0 +1,42 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/* Navigation Styles */
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+        display: inline-block;
+        margin-right: 20px;
+}
+img {
+    max-width: 60%;
+    height: 400px;
+}
+
+
+td {
+    background: burlywood;
+}
